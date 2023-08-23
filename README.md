@@ -10,8 +10,10 @@ Portfolio: [Coming Soon](Comming Soon)
 
 ---
 
-<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=iqbalizz&show_icons=true&theme=dark#gh-dark-mode-only"/>
-<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalizz&layout=compact"/>
+<div style="display: flex; align-items: flex-start;">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=iqbalizz&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalizz&layout=compact" alt="Most Used Languages" />
+</div>
 
 <br clear="left" />
 
