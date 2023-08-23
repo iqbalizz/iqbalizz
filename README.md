@@ -8,7 +8,8 @@
 
 Portfolio - [Coming Soon](Comming Soon)
 
-[![Muhammad Iqbal GitHub stats](https://github-readme-stats.vercel.app/api?username=iqbalizz&show_icons=true&theme=dark#gh-dark-mode-only)]
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=iqbalizz&show_icons=true&theme=dark#gh-dark-mode-only"/>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 
 ### Languages and Tools:
 
