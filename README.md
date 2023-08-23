@@ -8,11 +8,12 @@
 
 Portfolio - [Coming Soon](Comming Soon)
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=iqbalizz&show_icons=true&theme=dark#gh-dark-mode-only"/>
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=iqbalizz&show_icons=true&theme=dark#gh-dark-mode-only"/>
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<br />
+<br />
 
 ### Languages and Tools:
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
