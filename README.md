@@ -8,17 +8,17 @@
 
 Portfolio - [Coming Soon](Comming Soon)
 
-
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4aa18dbd7b01ed19ac8a19a7f49eb1f6e56e829/images/svg/linkedin.svg" />][linkedin]
-[<img align="left" alt="Codepen" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4aa18dbd7b01ed19ac8a19a7f49eb1f6e56e829/images/svg/codepen.svg" />][codepen]
-[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/63851670950a28b42df5d73ddebcd65147b7c2cc/images/svg/instagram.svg" />][instagram]
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/63851670950a28b42df5d73ddebcd65147b7c2cc/images/svg/twitter.svg" />][twitter]
-[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4aa18dbd7b01ed19ac8a19a7f49eb1f6e56e829/images/svg/discord.svg" />][discord]
-[<img align="left" alt="Steam" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4aa18dbd7b01ed19ac8a19a7f49eb1f6e56e829/images/svg/steam.svg" />][steam]
-[<img align="left" alt="Awwwards" width="22px" src="https://assets.awwwards.com/assets/images/logo-schema.png" />][awwwards]
-
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 <br />
 
 ### Languages and Tools:
@@ -46,6 +46,7 @@ Portfolio - [Coming Soon](Comming Soon)
 <br />
 
 <!-- [website]: https://reksaandhika.com -->
+
 [linkedin]: https://www.instagram.com/iqbaall_i/
 [codepen]: https://www.instagram.com/iqbaall_i/
 [instagram]: https://www.instagram.com/iqbaall_i/
