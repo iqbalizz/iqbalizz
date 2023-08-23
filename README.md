@@ -14,9 +14,9 @@ Portfolio: [Coming Soon](Comming Soon)
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=iqbalizz&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalizz&layout=compact" alt="Most Used Languages" />
 </div>
-
 <br clear="left" />
 
+---
 ### Languages and Tools:
 
 <div style="display: inline_block">
@@ -30,6 +30,8 @@ Portfolio: [Coming Soon](Comming Soon)
 </div>
 
 <br />
+
+---
 
 ### Connect with me:
 
